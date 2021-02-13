@@ -9,3 +9,7 @@ int someClass::someSum()
 {
     return a+b;
 }
+int someClass::someFoo()
+{
+    return a-b;
+}
